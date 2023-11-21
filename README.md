@@ -5,7 +5,7 @@
 ![Front](https://user-images.githubusercontent.com/76924199/226289785-13f291ed-f68e-47fa-9238-6234ffbb438f.jpg)
 ![Back](https://user-images.githubusercontent.com/76924199/226289825-fefdacbc-91b6-43cc-ad7b-bf4feb496173.jpg)
 
-This switch is fully compatible with the Time Circuits Display. Rotating the handle fake-powers on/off the TCD, and the "RESET" button triggers a time travel.
+This switch is fully compatible with the [Time Circuits Display](https://tcd.backtothefutu.re). Rotating the handle fake-powers on/off the TCD, and the "RESET" button triggers a time travel.
 
 I tried to build it exactly like in the movies, which turned out to be a bit difficult as this switch looks different in all of the cars used in the movies. The one currently on exhibition in the [Petersen Museum](https://www.petersen.org/back-to-the-future-dmc-delorean) is the restored A-car, so it *should* be the most authentic one. However, it appears that, during restoration, the switch was taken out of a different car, as it is clearly not the one shown in the very first time travel scene (where Einstein travels one minute into the future, and Doc explains the Time Circuits to Marty). The box looks different, the labels are at different locations, and some more minor differences. Also for the back side, which is hardly ever visible in Part I (only at the end, when Marty waits for the alarm to go off), looks different in every time, as does the knob at the very front of the box.
 
@@ -15,11 +15,11 @@ List of components and remarks:
 
 ### Box 
 
-While for the cars shown later in the series and the one now in the Petersen Museum, they apparently used a Radio Shack 270-274, the box shown in the beginning of Part I looks a bit different. It seems to have a bare metal surface on the front, and the upper part of the enclosure appears to be in line with the sides. Also, the Radio Shack version is unavailable. 
+While for the cars shown later in the series and the one now in the Petersen Museum, they apparently used a Radio Shack 270-274, the box shown in the beginning of Part I looks a bit different. However, the Radio Shack version is no longer available.
 
 [CircuitSetup](https://circuitsetup.us/product/tfc-drive-switch-aluminum-enclosure/) offers pre-cut/drilled boxes now. 
 
-When I built my switch, those weren't available. So I used a Teko model 384, which is approx. 7mm shorter and 7mm lower than the Radio Shack one. 
+When I built my switch, those weren't available either. So I used a Teko model 384, which is approx. 7mm shorter and 7mm lower than the Radio Shack one. 
 - https://www.reichelt.at/us/en/aluminium-housing-203x160x70-mm-teko-384-p21197.html?r=1
 - https://www.teko.it/uploads/manuali/pdf/384.pdf
 - https://www.soselectronic.com/en/products/teko/384-18-298999
@@ -29,7 +29,7 @@ When I built my switch, those weren't available. So I used a Teko model 384, whi
 
 These switches are still made and available at [Grainger](https://www.grainger.com/product/DAYTON-Drum-Switch-Maintained-Reversing-2X442).
 
-For the screws that hold it in place, I used [those](https://www.accu.co.uk/slotted-round-head-screws/368952-SFB-1-4-20-1-2-A2). 
+For the screws that hold it in place, I used [these](https://www.accu.co.uk/slotted-round-head-screws/368952-SFB-1-4-20-1-2-A2). 
 
 Since the switch comes with a different type label, I sourced some replica stickers on ebay and attached them to a custom made aluminum plate. Dimensions are 88.0x32.0x0.5mm, corner radius 4mm.
 
@@ -51,24 +51,24 @@ In order to reduce stress on the handle when turning the switch, I exchanged the
 Allen-Bradley 800T-D with 800T-XA switch block
 
 ### Lights
-- Dialco vintage faceted green and red pilot light, 1" diameter. Good luck finding a green one ;)
+Dialco vintage faceted green and red pilot light, 1" diameter. Good luck finding a green one ;)
 
 ### Pot button
-- Leviton 402-6616 Black (not depicted)
+Leviton 402-6616 Black (not depicted)
 
 ### Electronics
 
 Not much of "electronics" inside; this switch is really only a switch that shortens two wires for the TCD fake power when turning the Dayton switch, and two other wires when pressing the Mushroom button.
 
-I made a small PCB acting as a switch board, using a FRT5 mini relay for the lights; I used 12V high power LEDs for the green and red lights since low power standard LEDs were too weak to light up through the thick Dialight lenses. (If you want to use LEDs with up to 5 V voltage, you can connect them the the "LEDS" terminal and put a suitable resistor at R1.)
+I made a small PCB acting as a switch board, using a FRT5 mini relay for the lights; I used 12V high power LEDs for the green and red lights since low power standard LEDs were too weak to light up through the thick Dialight lenses. (If you want to use LEDs with up to 5V voltage, you can connect them the the "LEDS" terminal and put a suitable resistor at R1.)
 
 Gerbers and EasyEDA file is in the [Electronics](https://github.com/realA10001986/TFC-Switch/tree/main/Electronics) folder here.
 
 ### Labels
 
-- Dymo Office Mate II Label Maker 1540 or Rotex 880, with suitable font wheel
-- Back side: 9mm 
-- Mushroom: 12mm 
+- Rotex 880 or Dymo Office Mate II Label Maker 1540, with suitable font wheel
+- Back side: 9mm (3(8")
+- Mushroom: 12mm (1/2")
 
-For the red labels on the driver side, see the [Labels](https://github.com/realA10001986/TFC-Switch/tree/main/Labels) folder in this repository.
+For the red labels on the driver's side, see the [Labels](https://github.com/realA10001986/TFC-Switch/tree/main/Labels) folder in this repository.
 
