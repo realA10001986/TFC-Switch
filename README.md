@@ -62,7 +62,7 @@ Not much of "electronics" inside; this switch is really only a switch that short
 
 I made a small PCB acting as a switch board, using a FRT5 mini relay for the lights; I used 12V high power LEDs for the green and red lights since low power standard LEDs were too weak to light up through the thick Dialight lenses. (If you want to use LEDs with up to 5 V voltage, you can connect them the the "LEDS" terminal and put a suitable resistor at R1.)
 
-Gerbers and EasyEDA file is in the [Electronics](/electronics/) folder here.
+Gerbers and EasyEDA file is in the [Electronics](https://github.com/realA10001986/TFC-Switch/tree/main/Electronics) folder here.
 
 ### Labels
 
@@ -70,5 +70,5 @@ Gerbers and EasyEDA file is in the [Electronics](/electronics/) folder here.
 - Back side: 9mm 
 - Mushroom: 12mm 
 
-For the red labels on the driver side, see the [Labels](/labels/) folder in this repository.
+For the red labels on the driver side, see the [Labels](https://github.com/realA10001986/TFC-Switch/tree/main/Labels) folder in this repository.
 
