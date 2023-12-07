@@ -67,7 +67,7 @@ Gerbers and EasyEDA file is in the [Electronics](https://github.com/realA1000198
 ### Labels
 
 - Rotex 880 or Dymo Office Mate II Label Maker 1540, with suitable font wheel
-- Back side: 9mm (3(8")
+- Back side: 9mm (3/8")
 - Mushroom: 12mm (1/2")
 
 For the red labels on the driver's side, see the [Labels](https://github.com/realA10001986/TFC-Switch/tree/main/Labels) folder in this repository.
