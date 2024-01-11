@@ -1,11 +1,11 @@
 # TFC Switch
 
-(Page currently under construction)
+This repo holds some instructions for building a TFC Drive Switch as known from the "Back to the Future" movies.
 
 ![Front](https://user-images.githubusercontent.com/76924199/226289785-13f291ed-f68e-47fa-9238-6234ffbb438f.jpg)
 ![Back](https://user-images.githubusercontent.com/76924199/226289825-fefdacbc-91b6-43cc-ad7b-bf4feb496173.jpg)
 
-This switch is fully compatible with the [Time Circuits Display](https://tcd.backtothefutu.re). Rotating the handle fake-powers on/off the TCD, and the "RESET" button triggers a time travel.
+This switch is fully compatible with CircuitSetup's [Time Circuits Display](https://tcd.backtothefutu.re). Rotating the handle fake-powers on/off the TCD, and the "RESET" button triggers a time travel.
 
 I tried to build it exactly like in the movies, which turned out to be a bit difficult as this switch looks different in all of the cars used in the movies. The one currently on exhibition in the [Petersen Museum](https://www.petersen.org/back-to-the-future-dmc-delorean) is the restored A-car, so it *should* be the most authentic one. However, it appears that, during restoration, the switch was taken out of a different car, as it is clearly not the one shown in the very first time travel scene (where Einstein travels one minute into the future, and Doc explains the Time Circuits to Marty). The box looks different, the labels are at different locations, and some more minor differences. Also for the back side, which is hardly ever visible in Part I (only at the end, when Marty waits for the alarm to go off), looks different in every time, as does the knob at the very front of the box.
 
