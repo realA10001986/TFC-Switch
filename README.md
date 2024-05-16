@@ -66,7 +66,9 @@ The side switches are standard toggle switches, in different sizes. I have no sp
 
 Not much of "electronics" inside; this switch is really only a switch that shortens two wires for the TCD fake power when turning the Dayton switch, and two other wires when pressing the Mushroom button.
 
-I made a small PCB acting as a switch board, using a FRT5 (or Panasonic TQ2-5V) mini relay for the lights; I used 12V GU5.3 LED bulbs for the green and red lights since low power standard LEDs were too weak for those thick Dialight lenses. (If you want to use LEDs with up to 5V voltage, you can connect them to the "LEDS" terminal and put a suitable resistor at R1.)
+I made a small PCB acting as a switch board, using a FRT5-5V (or Panasonic TQ2-5V, or Kema EA2-5Nx) mini relay for the lights; I used 12V GU5.3 LED bulbs for the green and red lights since low power standard LEDs were too weak for those thick Dialight lenses. (If you want to use LEDs with up to 5V voltage, you can connect them to the "LEDS" terminal and put a suitable resistor at R1.)
+
+_Note_: The TCD control board 1.4 and later delivers 3.3V instead of 5V on the Time Travel and Fake Power connectors. You can replace the relay on the TFC board with a Panasonic TQ2-3V in order to accomodate for this.
 
 Gerbers and EasyEDA file is in the [Electronics](https://github.com/realA10001986/TFC-Switch/tree/main/Electronics) folder here. [JLCPCB](https://jlcpcb.com/) can make it for you; just create an account and upload the Gerber file. Then choose PCB color but leave the other production parameters at their default.
 
