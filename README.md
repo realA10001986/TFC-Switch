@@ -64,7 +64,7 @@ The side switches are standard toggle switches, in different sizes. I have no sp
 
 ### Electronics
 
-Not much of "electronics" inside; this switch is really only a switch that shortens two wires for the TCD fake power when turning the Dayton switch, and two other wires when pressing the Mushroom button.
+Not much of "electronics" inside; this switch is really only a switch that connects two wires for the TCD fake power when turning the Dayton switch, and two other wires when pressing the Mushroom button.
 
 I made a small PCB acting as a switch board, using a FRT5-5V (or Panasonic TQ2-5V, or Kemet EA2-5Nx) mini relay for the lights; I used 12V GU5.3 LED bulbs for the green and red lights since low power standard LEDs were too weak for those thick Dialight lenses. (If you want to use LEDs with up to 5V voltage, you can connect them to the "LEDS" terminal and put a suitable resistor at R1.)
 
