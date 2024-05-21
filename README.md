@@ -2,8 +2,8 @@
 
 This repo holds some instructions for building a TFC Drive Switch as known from the Delorean Time Machine.
 
-![Front](https://user-images.githubusercontent.com/76924199/226289785-13f291ed-f68e-47fa-9238-6234ffbb438f.jpg)
-![Back](https://user-images.githubusercontent.com/76924199/226289825-fefdacbc-91b6-43cc-ad7b-bf4feb496173.jpg)
+<img src="img/total1.jpg">
+<img src="img/total2.jpg">
 
 This switch is fully compatible with CircuitSetup's [Time Circuits Display](https://tcd.out-a-ti.me) kit. Rotating the handle fake-powers on/off the TCD, and the "RESET" mushroom button triggers a time travel.
 
@@ -41,9 +41,9 @@ The handle itself is a battery contact cleaner in real life, going under the nam
 
 In order to attach the handle to the switch, I bought a 1/4 inch drive extension set, cut one of those extensions in two parts and welded the male part, approx. 1.5cm in length, to the switch, right on top of the existing square end of the axle. Since the connection between male and female parts of this extension set was too loose for my taste, I welded a nut on top of the female end, and drilled out the thread so the nut holds the axle with the male end better in place. Then I adjusted the female part in length so that it fits exactly into the handle and its rear end touches the end of the handle's inside. That part also got some excess weld points and a few superficial cuts using a cutting disc, in order to make the surface as rough as possible. The final step was to pour some epoxy resin into the handle, immediately put the female part in and ... wait. I repeated that process until the epoxy level was close the the top of the metal part. Beware: There is a hole in the handle on the side of the golden brush where resin might flow out in the process; cover this with tape before starting.
 
-![Male end](https://user-images.githubusercontent.com/76924199/226290618-32b34095-3f80-493f-afe1-1972019aa83d.jpg)
-![Female attached](https://user-images.githubusercontent.com/76924199/226291389-17c2bccd-e0a0-4267-a834-8ca5c932a1d3.jpg)
-![Inside handle](https://user-images.githubusercontent.com/76924199/226290630-23a03fd3-7c85-429e-96d2-72fc89273203.jpg)
+<img src="img/dayt1.jpg">
+<img src="img/dayt2.jpg">
+<img src="img/dayt3.jpg">
 
 In order to reduce stress on the handle when turning the switch, I exchanged the spring with a weaker one. Also, I added a washer at the rear end of the switch's axle in order to keep it better in place; without the washer, the small wheel inside the retention mechanism sometimes fell out when turning the switch.
 
