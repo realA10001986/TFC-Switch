@@ -48,10 +48,12 @@ In order to attach the handle to the switch, I bought a 1/4 inch drive extension
 In order to reduce stress on the handle when turning the switch, I exchanged the spring with a weaker one. Also, I added a washer at the rear end of the switch's axle in order to keep it better in place; without the washer, the small wheel inside the retention mechanism sometimes fell out when turning the switch.
 
 ### Mushroom button
-Allen-Bradley 800T-D with 800T-XA switch block
+Allen-Bradley 800T-D with 800T-XA switch block. This needs a bunch of washers to fix it in place; I used thick plastic washers to keep the weight down.
 
 ### Lights
 Dialco (Dialight) vintage faceted green and red pilot light, 1" diameter. Good luck finding a green one ;)
+
+<img src="img/glightlens.jpg">
 
 ### Pot button
 Leviton 402-6616 Black (not depicted here)
