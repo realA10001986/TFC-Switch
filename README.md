@@ -51,7 +51,7 @@ In order to reduce stress on the handle when turning the switch, I exchanged the
 Allen-Bradley 800T-D with 800T-XA switch block. This needs a bunch of washers to fix it in place; I used thick plastic washers to keep the weight down.
 
 ### Lights
-Dialco (Dialight) vintage faceted green and red pilot light, 1" diameter. Good luck finding a green one ;)
+Dialco (Dialight) vintage faceted green and red pilot light, 1" diameter. Green ones are a bit hard to find, though. These are not the ones with a thread on top; instead, they are just pushed into the holder.
 
 <img src="img/glightlens.jpg">
 
