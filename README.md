@@ -33,7 +33,11 @@ For the screws that hold it in place, I used [these](https://www.accu.co.uk/slot
 
 Since the switch comes with a different type label, I sourced some replica stickers on ebay and attached them to a custom made aluminum plate. Dimensions are 88.0x32.0x0.5mm, corner radius 4mm.
 
-The acrylic glass is 102mm wide, and some 250mm in overall length. I bent it using a heat gun (160-170°C/320°F) and used the Dayton's original metal enclosure as a kind of mold; Put the metal enclosure, a suitable piece of acyrlic and a flat piece of wood into a machine vice, and carefully heat the acrylic (by moving the heat gun sideways, like in stripes) to bend it evenly over the metal. Then cut off excess material (using a box cutter; with minimum pressure cut along the line a few times, then break the glass over a sharp edge). When drilling holes, use a HSS (metal) drill (which should not be new, use it on metal a couple of times beforehand), and drill at very low speed, with minimum pressure on the material. Also, don't forget to put some paper tape on the back side before drilling, this will prevent cracks. 
+The acrylic glass is 102mm wide, and some 250mm in overall length. I bent it using a heat gun (160-170°C/320°F) and used the Dayton's original metal enclosure as a kind of mold; Put the metal enclosure, a suitable piece of acyrlic and a flat piece of wood into a machine vice, and carefully heat the acrylic (by moving the heat gun sideways, like in stripes) to bend it evenly over the metal. 
+
+<img src="img/bending.png">
+
+Then cut off excess material (using a box cutter; with minimum pressure cut along the line a few times, then break the glass over a sharp edge). When drilling holes, use a HSS (metal) drill (which should not be new, use it on metal a couple of times beforehand), and drill at very low speed, with minimum pressure on the material. Also, don't forget to put some paper tape on the back side before drilling, this will prevent cracks. 
 
 The most difficult part is attaching the handle.
 
