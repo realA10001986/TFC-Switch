@@ -52,7 +52,7 @@ In order to attach the handle to the switch, I bought a 1/4 inch drive extension
 In order to reduce stress on the handle when turning the switch, I exchanged the spring with a weaker one. Also, I added a washer at the rear end of the switch's axle in order to keep it better in place; without the washer, the small wheel inside the retention mechanism sometimes fell out when turning the switch.
 
 ### Mushroom button
-Allen-Bradley 800T-D with 800T-XA switch block. This needs a bunch of washers to fix it in place; I used thick plastic washers to keep the weight down.
+I used an Allen-Bradley 800T-D with 800T-XA switch block, but I don't know if this is an Original part. It needs a bunch of washers to fix it in place; I used thick plastic washers to keep the weight down.
 
 ### Lights
 Dialco (Dialight) vintage faceted green and red pilot light, 1" diameter. Green ones are a bit hard to find, though. These are not the ones with a thread on top; instead, they are just pushed into the holder.
@@ -71,7 +71,9 @@ The pot knob does nothing on my switches, but it could be attached to a [rotary 
 
 ### Switches
 
-The side switches are standard toggle switches, in different sizes. I have no specific model for recommendation.
+The side switches are standard toggle switches, in different sizes. I have no specific models for recommendation.
+
+The switch with the green cover is a toggle switch with a safety cover (aka "aircraft guard cover"), it is available on ebay.
 
 ### Electronics
 
