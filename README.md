@@ -2,6 +2,7 @@
 
 This repo holds some instructions for building a TFC Drive Switch as known from the Delorean Time Machine.
 
+<img src="img/mytfc.jpg">
 <img src="img/total1.jpg">
 <img src="img/total2.jpg">
 
