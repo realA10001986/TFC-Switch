@@ -8,4 +8,4 @@ To have [JCLPCB](https://jlcpcb.com) make your TFC Switch PCB:
 4) Do NOT activate "PCB assembly"; click on "Save to Cart"
 5) Finalize your order
 
-![Diagram](img/connection_diagramV3.png)
+![Diagram](connection_diagramV3.png)
