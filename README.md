@@ -80,11 +80,20 @@ The switch with the green cover is a toggle switch with a safety cover (aka "air
 
 Not much of "electronics" inside; this switch is really only a switch that connects two wires for the TCD fake power when turning the Dayton switch, and two other wires when pressing the Mushroom button.
 
-I made a small PCB acting as a switch board, using a FRT5-5V (or Panasonic TQ2-5V, or Kemet EA2-5Nx) mini relay for the lights; I used 12V GU5.3 LED bulbs for the green and red lights since low power standard LEDs were too weak for those thick Dialight lenses. (If you want to use LEDs with up to 5V voltage, you can connect them to the "LEDS" terminal and put a suitable resistor at R1.)
+I made a small PCB acting as a switch board, using a mini relay  ()  for the lights; I used 12V GU5.3 LED bulbs for the green and red lights since low power standard LEDs were too weak for those thick Dialight lenses. (If you want to use LEDs with up to 5V voltage, you can connect them to the "LEDS" terminal and put a suitable resistor at R1.)
 
 If you want to install a rotary encoder, you need to wire SDA and SCL from the TCD as well. These are clocked signals, I therefore recommend using a twisted pair cable to avoid cross-talk. Pair both SDA and SCL with a GND wire. For more information on rotary encoder support, please see [here](https://github.com/realA10001986/Time-Circuits-Display/tree/main/DIY#rotary-encoder).
 
 Gerbers and EasyEDA file is in the [Electronics](https://github.com/realA10001986/TFC-Switch/tree/main/Electronics) folder here. [JLCPCB](https://jlcpcb.com/) can make it for you; just create an account and upload the Gerber file. Then choose PCB color but leave the other production parameters at their default.
+
+Additionally to the PCB, you need:
+- 1x Panasonic TQ2-5V or Kemet EA2-5Nx or FRT5-5V mini relay
+- 2x TE Connectivity [284514-4](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-4?qs=woBvfblj%2Fzy48ih9AmO90g%3D%3D) (+1 for rotary encoder)
+- 2x TE Connectivity [284506-4](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-4?qs=pW%2FyRk%2FT1EFUJ80efaE%2FeA%3D%3D) (+1 for rotary encoder)
+- 1x TE Connectivity [284514-3](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-3?qs=woBvfblj%2FzwGS50caoQlYA%3D%3D)
+- 1x TE Connectivity [284506-3](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-3?qs=pW%2FyRk%2FT1EErkHTioRHy7Q%3D%3D) 
+- 2x TE Connectivity [284514-2](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-2?qs=woBvfblj%2FzwP8grZOAh0Gg%3D%3D) (+1 for rotary encoder)
+- 2x TE Connectivity [284506-2](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-2?qs=pW%2FyRk%2FT1EEEaP6r3xD3uw%3D%3D) (+1 for rotary encoder)
 
 ### Labels
 
