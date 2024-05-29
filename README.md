@@ -82,6 +82,8 @@ Not much of "electronics" inside; this switch is really only a switch that conne
 
 I made a small PCB acting as a switch board, using a mini relay for the lights; I used 12V GU4 LED bulbs for the green and red lights since low power standard LEDs were too weak for those thick Dialight lenses. (If you want to use LEDs with up to 5V voltage, you can connect them to the "LEDS" terminal and put a suitable resistor at R1.)
 
+<img src="img/lamp.jpg">
+
 If you want to install a rotary encoder, you need to wire SDA and SCL from the TCD as well. These are clocked signals, I therefore recommend using a twisted pair cable to avoid cross-talk. Pair both SDA and SCL with a GND wire. For more information on rotary encoder support, please see [here](https://github.com/realA10001986/Time-Circuits-Display/tree/main/DIY#rotary-encoder).
 
 Gerbers and EasyEDA file is in the [Electronics](https://github.com/realA10001986/TFC-Switch/tree/main/Electronics) folder here. [JLCPCB](https://jlcpcb.com/) can make it for you; just create an account and upload the Gerber file. Then choose PCB color but leave the other production parameters at their default.
