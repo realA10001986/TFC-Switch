@@ -70,7 +70,7 @@ Leviton 402-6616 Black
 
 <img src="img/leviton.jpg">
 
-The pot knob does nothing on my switches, but it could be attached to a [rotary encoder](https://github.com/realA10001986/Time-Circuits-Display/blob/main/README.md#rotary-encoder) to set the speed on the speedometer. This requires two additional wires from/to the TCD (SDA, SCL for i2c connection; please consider cross-talk when choosing a cable). I didn't do that because that knob is not easily accessible, given its location below the handle.
+The pot knob does nothing on my switches, but it could be attached to a [rotary encoder](https://tcd.out-a-ti.me#rotary-encoder) to set the speed on the speedometer. This requires two additional wires from/to the TCD (SDA, SCL for i2c connection; please consider cross-talk when choosing a cable). I didn't do that because that knob is not easily accessible, given its location below the handle.
 
 ### Switches
 
