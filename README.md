@@ -86,9 +86,9 @@ I made a small PCB acting as a switch board, using a mini relay for the lights; 
 
 <img src="img/lamp.jpg">
 
-If you want to install a rotary encoder, you need to wire SDA and SCL from the TCD as well. These are clocked signals, I therefore recommend using a twisted pair cable to avoid cross-talk. Pair both SDA and SCL with a GND wire. For more information on rotary encoder support, please see [here](https://github.com/realA10001986/Time-Circuits-Display/tree/main/DIY#rotary-encoder).
+If you want to install a rotary encoder, you need to wire SDA and SCL from the TCD as well. These are clocked signals, I therefore recommend using a twisted pair cable to avoid cross-talk. Pair both SDA and SCL with a GND wire. For more information on rotary encoder support, please see [here](https://tcd.out-a-ti.me/DIY#rotary-encoder).
 
-Gerbers and EasyEDA-Std file is in the [Electronics](https://github.com/realA10001986/TFC-Switch/tree/main/Electronics) folder here. [JLCPCB](https://jlcpcb.com/) can make it for you; just create an account and upload the Gerber file. Then choose PCB color but leave the other production parameters at their default.
+Gerbers and EasyEDA-Std file is in the [Electronics](/Electronics) folder here. [JLCPCB](https://jlcpcb.com/) can make it for you; just create an account and upload the Gerber file. Then choose PCB color but leave the other production parameters at their default.
 
 Additionally to the PCB, you need:
 - 1x [Panasonic TQ2-5V](https://www.mouser.com/ProductDetail/Panasonic-Industrial-Devices/TQ2-5V?qs=HLLy2pIPwutHaTSpVfb1kw%3D%3D) or [Kemet EA2-5Nx](https://www.mouser.com/ProductDetail/KEMET/EA2-5NU?qs=UeqeubEbzTX2QGWq8LyCiw%3D%3D) or FRT5-5V mini relay
