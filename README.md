@@ -105,5 +105,5 @@ Additionally to the PCB, you need:
 - Back side: 9mm (3/8"): "XMAS", "TREE", "REAR", "DECK", "PROJ.", "LAMP", "UP/CON", "CAP.", "PULSE", "DEAD", "FREON"
 - Mushroom: 12mm (1/2"): "RESET"
 
-For the red labels on the driver's side, see the [Labels](https://github.com/realA10001986/TFC-Switch/tree/main/Labels) folder in this repository.
+For the red labels on the driver's side, see the [Labels](/Labels) folder in this repository.
 
