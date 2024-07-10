@@ -18,3 +18,6 @@ Additionally to the PCB, you need:
 - 2x TE Connectivity [284506-2](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-2?qs=pW%2FyRk%2FT1EEEaP6r3xD3uw%3D%3D) (+1 for rotary encoder)
 
 ![Diagram](connection_diagramV3.png)
+
+
+_Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._
