@@ -107,3 +107,4 @@ Additionally to the PCB, you need:
 
 For the red labels on the driver's side, see the [Labels](/Labels) folder in this repository.
 
+_Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._
