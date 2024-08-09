@@ -28,7 +28,7 @@ When I built my switches, those weren't available either. So I used a Teko model
 
 ### Dayton Switch
 
-These switches are still made and available at [Grainger](https://www.grainger.com/product/DAYTON-Drum-Switch-Maintained-Reversing-2X442).
+These switches - going by Dayton Drum Switch 2X442 - are still made and available at [Grainger](https://www.grainger.com/product/DAYTON-Drum-Switch-Maintained-Reversing-2X442).
 
 For the screws that hold it in place, I used [these](https://www.accu.co.uk/slotted-round-head-screws/368952-SFB-1-4-20-1-2-A2), 1/4-20 UNC, length 1".
 
