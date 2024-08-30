@@ -1,6 +1,6 @@
 # TFC Switch
 
-This repo holds some instructions for building a TFC Drive Switch as known from the Delorean Time Machine.
+This [repository](https://tfc.out-a-ti.me) holds some instructions for building a TFC Drive Switch as known from the Delorean Time Machine.
 
 <img src="img/mytfc.jpg">
 <img src="img/total1.jpg">
@@ -105,6 +105,6 @@ Additionally to the PCB, you need:
 - Back side: 9mm (3/8"): "XMAS", "TREE", "REAR", "DECK", "PROJ.", "LAMP", "UP/CON", "CAP.", "PULSE", "DEAD", "FREON"
 - Mushroom: 12mm (1/2"): "RESET"
 
-For the red labels on the driver's side, see the [Labels](Labels) folder in this repository.
+For the red labels on the driver's side, see the [Labels](https://github.com/realA10001986/TFC-Switch/tree/main/Labels) folder in this repository.
 
 _Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._
