@@ -19,5 +19,9 @@ Additionally to the PCB, you need:
 
 ![Diagram](connection_diagramV3.png)
 
+For the red and green lamps, there are two ways to connect them: 
+1) 12V (or higher; max. 30V) powered. In this case, use the "Lamps" connector as shown in the diagram, and connect your power source to the the "12V" connector.
+2) 5V (or below) powered. In this case, put a suitable resistor on R1 (or a wire bridge, if your LEDs/lamps are 5V driven), and connect your LEDs/lamps to the LEDs" connector.
+
 
 _Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._
