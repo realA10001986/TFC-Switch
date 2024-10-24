@@ -24,4 +24,4 @@ For the red and green lamps, there are two ways to connect them:
 2) 5V (or below) powered. In this case, put a suitable resistor on R1 (or a wire bridge, if your LEDs/lamps are 5V driven), and connect your LEDs/lamps to the "LEDs" connector.
 
 
-_Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._
+_Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._ Source: https://tfc.out-a-ti.me
