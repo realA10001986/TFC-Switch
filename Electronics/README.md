@@ -1,7 +1,7 @@
 ![PCB](img/pcb.jpg)
 ![InsideB](img/inside.jpg)
 
-Pictures show version 3 of the TFC board. Version 4 adds two potential-free contacts for switching external gear through the Dayton switch.
+Pictures above show version 3 of the TFC board. Version 4 adds two potential-free contacts for switching external gear through the Dayton switch.
 
 To have [JCLPCB](https://jlcpcb.com) make your TFC Switch PCB:
 1) Create an account at jlcpcb.com
