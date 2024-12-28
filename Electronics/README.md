@@ -23,8 +23,8 @@ Additionally to the PCB, you need:
 
 For the red and green lamps, there are two ways to connect them: 
 1) 12V (or higher; max. 30V) powered. In this case, use the "Lights" connector as shown in the diagram, and connect your power source to the the "12V" connector.
-2) 5V (or below) powered. In this case, put a suitable resistor on R1 (or a wire bridge, if your LEDs/lamps are 5V driven), and connect your LEDs/lamps to the "LEDs" connector.
+2) 5V (or below) powered. In this case, put a suitable resistor on R1 (or a wire bridge, if your LEDs/lamps are 5V driven), and connect your LEDs/lamps to the "LEDs" connector. The 12V input is not required.
 
-Aux header: The two pins of each Aux are shorted when the Dayton is switched to "ON", and opened with switched to "OFF". You can connect any external gear here, like eg. the roff console (in case you want it to be switched through the Dayton).
+Aux header: The two pins of each Aux are shorted when the Dayton is switched to "ON", and opened with switched to "OFF". You can connect any external gear here, like eg. the roof console (in case you want it to be switched through the Dayton).
 
 _Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._ Source: https://tfc.out-a-ti.me
