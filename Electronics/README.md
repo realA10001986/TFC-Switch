@@ -19,7 +19,7 @@ Additionally to the PCB, you need:
 - 2x TE Connectivity [284514-2](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-2?qs=woBvfblj%2FzwP8grZOAh0Gg%3D%3D) (+1 for rotary encoder)
 - 2x TE Connectivity [284506-2](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-2?qs=pW%2FyRk%2FT1EEEaP6r3xD3uw%3D%3D) (+1 for rotary encoder)
 
-![Diagram](connection_diagramV3.png)
+![Diagram](connection_diagramV4.png)
 
 For the red and green lamps, there are two ways to connect them: 
 1) 12V (or higher; max. 30V) powered. In this case, use the "Lights" connector as shown in the diagram, and connect your power source to the the "12V" connector.
