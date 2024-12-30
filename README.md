@@ -91,9 +91,9 @@ If you want to install a rotary encoder, you need to wire SDA and SCL from the T
 Gerbers and EasyEDA-Std file is in the [Electronics](https://github.com/realA10001986/TFC-Switch/tree/main/Electronics) folder here. [JLCPCB](https://jlcpcb.com/) can make it for you; just create an account and upload the Gerber file. Then choose PCB color but leave the other production parameters at their default.
 
 Additionally to the PCB, you need:
-- 1x [Panasonic TQ2-5V](https://www.mouser.com/ProductDetail/Panasonic-Industrial-Devices/TQ2-5V?qs=HLLy2pIPwutHaTSpVfb1kw%3D%3D) or [Kemet EA2-5Nx](https://www.mouser.com/ProductDetail/KEMET/EA2-5NU?qs=UeqeubEbzTX2QGWq8LyCiw%3D%3D) or FRT5-5V mini relay
-- 2x TE Connectivity [284514-4](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-4?qs=woBvfblj%2Fzy48ih9AmO90g%3D%3D) (+1 for rotary encoder)
-- 2x TE Connectivity [284506-4](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-4?qs=pW%2FyRk%2FT1EFUJ80efaE%2FeA%3D%3D) (+1 for rotary encoder)
+- 2x [Panasonic TQ2-5V](https://www.mouser.com/ProductDetail/Panasonic-Industrial-Devices/TQ2-5V?qs=HLLy2pIPwutHaTSpVfb1kw%3D%3D) or [Kemet EA2-5Nx](https://www.mouser.com/ProductDetail/KEMET/EA2-5NU?qs=UeqeubEbzTX2QGWq8LyCiw%3D%3D) or FRT5-5V mini relay
+- 3x TE Connectivity [284514-4](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-4?qs=woBvfblj%2Fzy48ih9AmO90g%3D%3D) (+1 for rotary encoder)
+- 3x TE Connectivity [284506-4](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-4?qs=pW%2FyRk%2FT1EFUJ80efaE%2FeA%3D%3D) (+1 for rotary encoder)
 - 1x TE Connectivity [284514-3](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-3?qs=woBvfblj%2FzwGS50caoQlYA%3D%3D)
 - 1x TE Connectivity [284506-3](https://www.mouser.com/ProductDetail/TE-Connectivity/284506-3?qs=pW%2FyRk%2FT1EErkHTioRHy7Q%3D%3D) 
 - 2x TE Connectivity [284514-2](https://www.mouser.com/ProductDetail/TE-Connectivity/284514-2?qs=woBvfblj%2FzwP8grZOAh0Gg%3D%3D) (+1 for rotary encoder)
