@@ -108,5 +108,5 @@ Additionally to the PCB, you need:
 For the red labels on the driver's side, see the [Labels](https://github.com/realA10001986/TFC-Switch/tree/main/Labels) folder in this repository.
 
 ---
-_Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._ Source: https://tfc.out-a-ti.me
+_Text & images: (C) Thomas Winischhofer ("A10001986"). See LICENSE._ Source: https://tfc.out-a-ti.me  
 _Other props: [Time Circuits Display](https://tcd.out-a-ti.me) ... [Flux Capacitor](https://fc.out-a-ti.me) ... [SID](https://sid.out-a-ti.me) ... [Dash Gauges](https://dg.out-a-ti.me) ... [VSR](https://vsr.out-a-ti.me) ... [Remote Control](https://remote.out-a-ti.me)_
