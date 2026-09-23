@@ -20,12 +20,6 @@ While for the cars shown later in the series and the one now in the Petersen Mus
 
 [CircuitSetup](https://circuitsetup.us/product/tfc-drive-switch-aluminum-enclosure/) offers pre-cut/drilled boxes now. 
 
-When I built my switches, those weren't available either. So I used a Teko model 384, which is approx. 7mm shorter and 7mm lower than the Radio Shack one. 
-- https://www.reichelt.at/us/en/aluminium-housing-203x160x70-mm-teko-384-p21197.html?r=1
-- https://www.teko.it/uploads/manuali/pdf/384.pdf
-- https://www.soselectronic.com/en/products/teko/384-18-298999
-- https://www.anteipaolucci.it/contenitori-metallici/contenitore-in-alluminio-203x160x695mm-teko-384-7838.html#
-
 ### Dayton Switch
 
 These switches - going by Dayton Drum Switch 2X442 - are still made and available at [Grainger](https://www.grainger.com/product/DAYTON-Drum-Switch-Maintained-Reversing-2X442).
